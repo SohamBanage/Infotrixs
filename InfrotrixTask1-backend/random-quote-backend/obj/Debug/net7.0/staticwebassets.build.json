@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vWwM4eA4NP6c45PxA7XCT7r9++mUM4cF5H6Pqexakgk=",
+  "Source": "random-quote-backend",
+  "BasePath": "_content/random-quote-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
